@@ -1,8 +1,8 @@
 Asteroids game created in the course "Intro To Computer Graphics and Animation" during my 3rd year at Dalhousie University.
 
-Includes a pre-compiled .exe file that should allow the game to be played.
+To play the game, download the Asteroids.zip file and unpack it. The file contains the compiled exe for the game along with the required DLLs. Just run the .exe once it has been extracted.
 
-Implemented with C and OpenGL.
+Implemented with C, OpenGL and FreeGLUT.
 
 ![Screenshot](image.png)
 
